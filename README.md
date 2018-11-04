@@ -8,7 +8,7 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 
 ## COURSE:
-
+`
 // ***********************************************************
 MISCELLEANOUS
 
@@ -192,7 +192,7 @@ Usually use the "attribute" solution to call it
                 {{ 'Server' }} with ID {{ serverId }} is {{ getServerStatus() }}
             </p>
 
-
+`
 
 
 
