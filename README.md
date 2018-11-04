@@ -146,7 +146,9 @@ styleUrls: ['./servers.component.css']
 
 
 2) Attribute Dircetives only change the element they are placed in
+
     a) ngStyle
+
 #my-component.component.ts
 ```
             export class ServersComponent {
@@ -172,6 +174,7 @@ styleUrls: ['./servers.component.css']
 ```
 
     b) ngClass
+    
 #my-component.component.ts
 ```
             @Component({
